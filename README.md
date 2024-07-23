@@ -21,14 +21,13 @@ A responsive and modern trips dashboard built with React.js/Next.js and MUI.
 ### Running the App Locally
   ```npm start```
 
-With Docker
-Pull Docker image: ```docker pull mahesh130691/aerchain-assignment```
-
-The app will be available at http://localhost:3000.
+### With Docker
+ - Pull Docker image: ```docker pull mahesh130691/aerchain-assignment```
+ - The app will be available at http://localhost:3000.
 
 Features
-  -View trips and their statuses
-  -Add new trips
-  -Edit existing trips
-  -Sortable table columns
-  -Filter trips by status
+  - View trips and their statuses
+  - Add new trips
+  - Edit existing trips
+  - Sortable table columns
+  - Filter trips by status
