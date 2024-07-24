@@ -12,32 +12,24 @@ A responsive and modern trips dashboard built with React.js/Next.js and MUI.
 ### Installation
 
 1. Clone the repository
-   ```git clone https://github.com/yourusername/trips-dashboard.git```
+   `git clone https://github.com/mahesh-44/aerchain-assignment/`
 
-2. Navigate to the project directory
-  ```cd trips-dashboard```
-
-3. Install dependencies
-  ```npm install```
-
+2. Install dependencies
+   `npm install`
 
 ### Running the App Locally
-  ```npm start```
 
-With Docker
-1. Build the Docker image
-  ```docker build -t trips-dashboard .```
-2. Run the Docker container
-  ```docker run -p 3000:3000 trips-dashboard```
+`npm start`
 
-The app will be available at http://localhost:3000.
+### With Docker
+
+- Pull Docker image: `docker pull mahesh130691/aerchain-assignment`
+- The app will be available at http://localhost:3000.
 
 Features
-  -View trips and their statuses
-  -Add new trips
-  -Edit existing trips
-  -Sortable table columns
-  -Filter trips by status
 
-
-
+- View trips and their statuses
+- Add new trips
+- Edit existing trips
+- Sortable table columns
+- Filter trips by status
